@@ -16,4 +16,3 @@ while True:
     want_instruction = yes_no("Do you want to read the instructions? ")
     print(f"You chose {want_instruction}")
 
-   
